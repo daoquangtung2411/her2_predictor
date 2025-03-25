@@ -5,4 +5,4 @@ The **HER2 Inhibition Predictor** is a machine learning-based web application de
 Deployment
 The application is deployed on Streamlit Cloud. You can access the live version of the app via the following link:
 
-Try the HER2 Inhibition Predictor App
+[Try the HER2 Inhibition Predictor App](https://her2pred.streamlit.app)
