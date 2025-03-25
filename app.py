@@ -4,7 +4,6 @@ import pandas as pd
 import pickle
 from xgboost import XGBRegressor
 from helper.fp_gen import smiles_to_ecfp, smiles_to_maccs
-from tabulate import tabulate
 import datetime
 from io import StringIO
 import base64
